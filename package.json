@@ -1,0 +1,21 @@
+{
+    "name": "noxus-theme",
+    "displayName": "Noxus Theme",
+    "description": "A semantic vscode dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Alican Basak",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Alican Basak-color-theme.json"
+            }
+        ]
+    }
+}
