@@ -2,7 +2,7 @@
   "name": "noxus-theme",
   "displayName": "Noxus Theme",
   "description": "A semantic vscode dark theme",
-  "version": "0.0.1",
+  "version": "1.0",
   "publisher": "alicanbasak",
   "engines": {
     "vscode": "^1.45.0"
