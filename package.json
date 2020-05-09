@@ -1,21 +1,37 @@
 {
-    "name": "noxus-theme",
-    "displayName": "Noxus Theme",
-    "description": "A semantic vscode dark theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.45.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Alican Basak",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Alican Basak-color-theme.json"
-            }
-        ]
-    }
+  "name": "noxus-theme",
+  "displayName": "Noxus Theme",
+  "description": "A semantic vscode dark theme",
+  "version": "0.0.1",
+  "publisher": "alicanbasak",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Noxus Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noxus-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "keywords": [
+    "onedark",
+    "minimal theme",
+    "semantic theme",
+    "oceanic",
+    "trending",
+    "dark",
+    "theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alicanbasak/noxus-theme.git"
+  }
 }
